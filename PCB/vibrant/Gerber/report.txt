@@ -1,0 +1,9 @@
+Plotted to '/Users/JoakuDeSotavento1/Documents/img-mov/git/BiT-Cyborg/Vibration/PCB/vibrant/vibrant-F_Cu.gbr'.
+Plotted to '/Users/JoakuDeSotavento1/Documents/img-mov/git/BiT-Cyborg/Vibration/PCB/vibrant/vibrant-B_Cu.gbr'.
+Plotted to '/Users/JoakuDeSotavento1/Documents/img-mov/git/BiT-Cyborg/Vibration/PCB/vibrant/vibrant-F_Silkscreen.gbr'.
+Plotted to '/Users/JoakuDeSotavento1/Documents/img-mov/git/BiT-Cyborg/Vibration/PCB/vibrant/vibrant-B_Silkscreen.gbr'.
+Plotted to '/Users/JoakuDeSotavento1/Documents/img-mov/git/BiT-Cyborg/Vibration/PCB/vibrant/vibrant-F_Mask.gbr'.
+Plotted to '/Users/JoakuDeSotavento1/Documents/img-mov/git/BiT-Cyborg/Vibration/PCB/vibrant/vibrant-B_Mask.gbr'.
+Plotted to '/Users/JoakuDeSotavento1/Documents/img-mov/git/BiT-Cyborg/Vibration/PCB/vibrant/vibrant-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/JoakuDeSotavento1/Documents/img-mov/git/BiT-Cyborg/Vibration/PCB/vibrant/vibrant-job.gbrjob'.
+Info: Done.
