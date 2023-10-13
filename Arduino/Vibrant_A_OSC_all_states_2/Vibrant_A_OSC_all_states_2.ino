@@ -1,3 +1,5 @@
+
+
 /*
 
    i_mBODY LAB
@@ -6,9 +8,14 @@
 
 */
 
+
+
+
 #include "WiFi.h"
 #include <SPI.h>
 #include <OSCMessage.h>
+
+
 
 WiFiUDP Udp; // A UDP instance to let us send and receive packets over UDP
 // Options
@@ -32,7 +39,7 @@ unsigned int localPort = 8890; // local port to listen for OSC packets
 IPAddress outIp(192, 168, 205, 62);
 const unsigned int outPort = 8000;
 
-const int pot = A2;
+const int pot = A0;
 
 const int drive1 = 13;
 const int drive2 = 12;
