@@ -1,6 +1,6 @@
-<img src="assets/BODYinTRANSIT_logo_02.jpg" alt="Tectonica by BODYinTRANSIT Logo" width="400"/>
+##<img src="assets/BODYinTRANSIT_logo_02.jpg" alt="Tectonica by BODYinTRANSIT Logo" width="400"/>
 
-Tectonica by BODYinTRANSIT is a research project funded by the European Research Council (ERC) and led by Prof. Ana Tajadura-Jiménez. The project will run from January 2022 to December 2026 within the Department of Computer Science at Universidad Carlos III de Madrid, Spain.
+Tectonica by BiT is a research project funded by the European Research Council (ERC) and led by Prof. Ana Tajadura-Jiménez. The project will run from January 2022 to December 2026 within the Department of Computer Science at Universidad Carlos III de Madrid, Spain.
 
 # Objective
 The main objective of Tectonica by BODYinTRANSIT is to share our advances in haptic prototypes develoment related with Body Transformation Experience (BTE).
